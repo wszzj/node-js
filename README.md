@@ -13,7 +13,7 @@
 ![成功](%E7%BD%91%E9%A1%B5%E7%BB%93%E6%9E%9C2.jpg)
   
 ## 添加路由
-1. 编辑server。js，添加if else语句
+1. 编辑server.js，添加if else语句
 2. 重新运行node server.js 8888 /(你设置的参数)
 
 ### 使用代码
